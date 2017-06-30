@@ -1,4 +1,5 @@
 # Infinity Ergodox Layouts
+![screenshot](layout_3_0/screenshot.png)
 ### [Configurator](https://input.club/configurator-ergodox/)
 ### [Firmware Installation](https://input.club/configurator-setup/)
 ### macOS
